@@ -166,3 +166,10 @@ job_applications/
 # Secrets files
 data_folder/secrets.yaml
 data_folder_example/secrets.yaml
+
+# Docker files
+.env
+.dockerignore
+Dockerfile
+docker-compose.yml
+docker-compose.*.yml
